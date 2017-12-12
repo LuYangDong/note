@@ -18,3 +18,4 @@
 <h3>9.iframe与frame的区别？</h3>
 <h3>10.开源中国<a href="https://www.oschina.net/">这里</a></h3>
 <h3>11.php开发工具<a href="http://www.php.cn/xiazai/gongju">这里</a></h3>
+<h3>12.wowslider插件<a href="http://wowslider.com/">这里</a></h3>
